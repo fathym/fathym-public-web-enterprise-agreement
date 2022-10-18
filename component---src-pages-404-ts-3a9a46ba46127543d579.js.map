@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-404-ts-3a9a46ba46127543d579.js","mappings":"4KAGA,UAHiB,WACf,MAAO,WADT,C","sources":["webpack://fathym-public-web-enterprise-agreement/./src/pages/404.ts"],"sourcesContent":["const NotFound = () => {\n  return \"Not Found\";\n};\nexport default NotFound;"],"names":[],"sourceRoot":""}
